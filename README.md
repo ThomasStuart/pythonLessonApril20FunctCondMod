@@ -11,14 +11,14 @@ Lesson for today:
 1. 	Quiz + review 
 2. 	Conditionals review  ( didn’t go over )
 3. 	Finish functions   
-		* setting defaults 
-		* local vs global
-		* parameters vs arguments 
-		* function signature
+		<p> setting defaults 
+		<p> local vs global
+		<p> parameters vs arguments 
+		<p> function signature
 	
 4. 	Mod operator  
 5. 	Lists.
-		* No concept limit of size
+		<p> No concept limit of size
 		* types of elements don’t have to be the same 
 		* list of lists is ok
 		* duplicate elements are ok 
