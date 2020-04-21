@@ -16,8 +16,19 @@ Lesson for today:
 		- parameters vs arguments 
 		- function signature
 		
-4. 	Mod operator.  Go over the image. Run through some examples. 
-5. 	Lists.  https://www.w3schools.com/python/python_lists.asp  , 
+4. 	Mod operator  
+5. 	Lists.
+		- No concept limit of size
+		- types of elements don’t have to be the same 
+		- list of lists is ok
+		- duplicate elements are ok 
+		- colons and lists 
+		- indexing 
+		- deleting and appending elements 
+		- contains and len functions 
+		- using an if in statement with list 
+		- what is a tuple 
+
 6. 	Do a programming problem on a website called “Code Fights”
 
 
