@@ -11,10 +11,10 @@ Lesson for today:
 1. 	Quiz + review 
 2. 	Conditionals review  ( didn’t go over )
 3. 	Finish functions   
-		<p> setting defaults 
-		<p> local vs global
-		<p> parameters vs arguments 
-		<p> function signature
+		<p> setting defaults </p>
+		<p> local vs global</p>
+		<p> parameters vs arguments </p>
+		<p> function signature</p>
 	
 4. 	Mod operator  
 5. 	Lists.
