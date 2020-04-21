@@ -19,7 +19,7 @@ Lesson for today:
 4. 	Mod operator  
 5. 	Lists.
 		<p> No concept limit of size
-		* types of elements don’t have to be the same 
+		** types of elements don’t have to be the same 
 		* list of lists is ok
 		* duplicate elements are ok 
 		* colons and lists 
@@ -27,7 +27,7 @@ Lesson for today:
 		* deleting and appending elements 
 		* contains and len functions 
 		* using an if in statement with list 
-		* what is a tuple 
+		* what is a tuple </p>
 
 6. 	Do a programming problem on a website called “Code Fights”
 
